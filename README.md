@@ -3,7 +3,9 @@
 
 App for collecting data for Malayalam text identification from natural scenes.
 <h3>Inspiration</h3>
-<!-- link to the blog and github repo -->
+<a href="https://github.com/FraPochetti/ImageTextRecognition">Repo</a>
+<br>
+<a href="http://francescopochetti.com/text-recognition-natural-scenes">Read this</a>
 The objective is to achieve something similar in Malayalam.
 <hr/>
 <h3>Tasks</h3>
@@ -21,8 +23,3 @@ The objective is to achieve something similar in Malayalam.
   <li>...</li>
 </ul>
 <hr/>
-<br>
-Gopi : Don't miss anything in the README.Include every tiny detail.
-<br>
-"Maximum effort"
-  
